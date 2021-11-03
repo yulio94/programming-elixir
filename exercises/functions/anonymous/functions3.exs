@@ -2,7 +2,7 @@ fizzbuzz = fn
   0, 0, _ -> "Fizzbuzz"
   0, _, _ -> "Fizz"
   _, 0, _ -> "Buzz"
-  _, _, thrid -> thrid
+  _, _, third -> third
 end
 
 fizzbuzz_remainder = fn
