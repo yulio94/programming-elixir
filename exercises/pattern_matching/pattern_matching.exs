@@ -10,7 +10,6 @@ IO.puts(a)
 IO.puts(b)
 IO.puts(c)
 
-
 # Matching error.
 [a, 4, c] = list
 IO.puts(a)
